@@ -55,7 +55,7 @@ The `WeatherDisplay.js` component handles the data flow for location and weather
 2.  Weather Forecast: The obtained location name is then used to query the OpenWeatherMap service for current conditions and forecast data.
 
 
-## 3. Build Tools and Deployment (Part 3)
+## 3. Build Tools and Deployment
 
 To produce an optimised build ready for deployment, the standard Create React App tools are utilised, but with a necessary adjustment for large dependencies.
 
